@@ -26,10 +26,7 @@ This project showcases an interactive sales dashboard built using Microsoft Powe
 - `images/` → Dashboard screenshots
 
 ## 🎯 Use Case
-This dashboard can be used by business stakeholders to monitor sales performance, optimize strategies, and improve profitability.
-
-## 📸 Preview
-(Add screenshots of your dashboard here)
+This dashboard can be used by business stakeholders to monitor sales performance, optimize strategies, and improve profitability
 
 ## 🤝 Connect with Me
 Feel free to connect on LinkedIn for feedback or collaboration.
